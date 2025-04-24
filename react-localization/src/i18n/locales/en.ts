@@ -1,0 +1,7 @@
+export const en = {
+  home: {
+    welcome: 'Welcome to our application',
+    description:
+      'This is a sample application to demonstrate internationalization.',
+  },
+};
